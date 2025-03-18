@@ -35,3 +35,5 @@ This project is an asynchronous web scraper built in Python that automates inter
 ## Issues:
 
 1. I had alot of problems dealing with selectors on this site, so i use regrex heavily , that could cause alot of problems but currently the scraper looks stable.
+
+2. I am still looking to optimize this script as it is very slow compared to my other scrapers
